@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=F78FB3&center=true&vCenter=true&width=600&lines=Welcome+to+Habiba+Noor's+Profile!;Frontend+Developer+💻;Creative+Designer+🎨;Always+Learning+🌱" />
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" align="center"  alt="Developer Coding Banner"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"   alt="Developer Coding Banner"/>
 
 
 <!-- 🌸 Habiba Noor – GitHub Profile ReadMe 🌸 -->
@@ -13,6 +13,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habiba%20Noor%20🌸&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+       width="400" 
+       alt="Developer Coding Banner"/>
+</div>
+
 
 <br>
 
