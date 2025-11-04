@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=F78FB3&center=true&vCenter=true&width=600&lines=Welcome+to+Habiba+Noor's+Profile!;Frontend+Developer+💻;Creative+Designer+🎨;Always+Learning+🌱" />
 
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/resources/banner.gif" width="100%" alt="Coding Workspace Banner"/>
+<img src="https://raw.githubusercontent.com/ashutosh1919/master/gif/dino.gif" width="100%" alt="UI Design Developer Banner"/>
 
 
 <!-- 🌸 Habiba Noor – GitHub Profile ReadMe 🌸 -->
