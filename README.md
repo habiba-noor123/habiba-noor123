@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="UI Gradient Banner"/>
+
 <!-- 🌸 Habiba Noor – GitHub Profile ReadMe 🌸 -->
 
 <!-- 🌈 Banner Section -->
