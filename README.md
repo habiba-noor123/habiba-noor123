@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="UI Gradient Banner"/>
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo-profile-banner.svg" width="100%" alt="Animated Banner"/>
 
 <!-- 🌸 Habiba Noor – GitHub Profile ReadMe 🌸 -->
 
