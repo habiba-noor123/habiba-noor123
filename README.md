@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=F78FB3&center=true&vCenter=true&width=600&lines=Welcome+to+Habiba+Noor's+Profile!;Frontend+Developer+💻;Creative+Designer+🎨;Always+Learning+🌱" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=F78FB3&center=true&vCenter=true&width=600&lines=Welcome+to+Habiba+Noor's+Profile!;Frontend+Developer+💻;Creative+Designer+🎨;Always+Learning+🌱" />
 
@@ -6,6 +7,10 @@
 <!-- 🌈 Banner Section -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/banner.gif" alt="Banner" width="100%" style="border-radius:15px;"/>
+</div>
+<!-- 🌈 UI Design Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habiba%20Noor%20🌸&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
 
 <br>
