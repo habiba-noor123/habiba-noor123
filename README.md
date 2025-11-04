@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=F78FB3&center=true&vCenter=true&width=600&lines=Welcome+to+Habiba+Noor's+Profile!;Frontend+Developer+💻;Creative+Designer+🎨;Always+Learning+🌱" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=F78FB3&center=true&vCenter=true&width=600&lines=Welcome+to+Habiba+Noor's+Profile!;Frontend+Developer+💻;Creative+Designer+🎨;Always+Learning+🌱" />
+
 
 <!-- 🌸 Habiba Noor – GitHub Profile ReadMe 🌸 -->
 
