@@ -4,11 +4,10 @@
 
 <!-- 🌈 Banner Section -->
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/habiba-noor123/habiba-noor123/main/images/github-stats-girl.png"
-    alt="Habiba Noor Developer Banner"
-    width="100%"
-  />
+  <img src="./images/github-stats-girl.png"
+       alt="Girl Developer Banner"
+       width="100%"
+       style="border-radius:15px;"/>
 </div>
 
 <!-- 🌈 UI Design Banner -->
@@ -16,13 +15,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habiba%20Noor%20🌸&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
 
-<!-- 👩‍💻 Girl Coding Image -->
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/habiba-noor123/habiba-noor123/main/images/girl-coding.png"
-    width="500"
-    alt="Girl Coding"
-  />
+  <img src="./images/girl-coding.png" 
+       width="400" 
+       alt="Girl Developer Coding Banner"/>
 </div>
 
 <br>
@@ -33,15 +29,20 @@
   <h3>A Passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
   <!-- 💻 Coding GIF -->
-  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/code.gif" alt="Coding" width="400" style="border-radius:15px; margin-top:10px;" />
+  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/code.gif"
+       alt="Coding"
+       width="400"
+       style="border-radius:15px; margin-top:10px;" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=habiba-noor123&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=habiba-noor123&label=Profile%20views&color=ff69b4&style=flat"
+         alt="Profile Views" />
   </p>
 
   <!-- 🏆 GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=habiba-noor123&theme=dracula&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=habiba-noor123&theme=dracula&margin-w=15"
+         alt="GitHub Trophies" />
   </a>
 
 </div>
@@ -102,7 +103,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/wave.gif" width="200" alt="Thanks GIF">
+  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/wave.gif"
+       width="200"
+       alt="Thanks GIF">
 
   <h3>✨ Thanks for visiting my profile! ✨</h3>
 
