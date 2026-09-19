@@ -4,8 +4,8 @@
 
 <!-- 🌈 Banner Section -->
 <div align="center">
-  <img src="./images/github-stats-girl.png"
-       alt="Girl Developer Banner"
+  <img src="images/github-stats-girl.png"
+       alt="Habiba Noor GitHub Banner"
        width="100%"
        style="border-radius:15px;"/>
 </div>
@@ -15,10 +15,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habiba%20Noor%20🌸&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
 
+<!-- 👩‍💻 Girl Coding Image -->
 <div align="center">
-  <img src="./images/girl-coding.png" 
-       width="400" 
-       alt="Girl Developer Coding Banner"/>
+  <img src="images/girl-coding.png"
+       width="500"
+       alt="Girl Coding"/>
 </div>
 
 <br>
@@ -83,11 +84,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habiba-noor123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habiba-noor123&show_icons=true&theme=tokyonight"
+       alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-noor123&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-noor123&theme=tokyonight"
+       alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-noor123&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-noor123&layout=compact&theme=tokyonight"
+       alt="Top Languages" />
 </div>
 
 ---
