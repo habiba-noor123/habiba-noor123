@@ -2,18 +2,18 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=3500&pause=800&color=F78FB3&center=true&vCenter=true&width=750&lines=Welcome+to+Habiba+Noor's+Profile+🌸;Frontend+Developer+💻;Creative+Designer+🎨;Building+Ideas+into+Reality+✨;Always+Learning+and+Growing+🌱" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=3500&pause=800&color=F78FB3&center=true&vCenter=true&width=800&lines=Welcome+to+Habiba+Noor's+Profile+🌸;Frontend+Developer+💻;Creative+Designer+🎨;Building+Ideas+into+Reality+✨;Always+Learning+and+Growing+🌱" />
 
 </div>
 
-<!-- ===================== GIRL DEVELOPER BANNER ===================== -->
+<!-- ===================== CUSTOM PROFILE IMAGE ===================== -->
 
 <div align="center">
 
 <img
-  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e"
-  width="700"
-  alt="Habiba Noor Developer Banner"
+  src="images/habiba-github-profile.png"
+  width="100%"
+  alt="Habiba Noor GitHub Profile"
 />
 
 </div>
@@ -25,7 +25,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:F78FB3,100:6C5CE7&height=210&section=header&text=Habiba%20Noor%20🌸&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Creative%20Designer&descAlignY=60&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:F78FB3,100:6C5CE7&height=200&section=header&text=Habiba%20Noor%20🌸&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Creative%20Designer&descAlignY=60&descSize=18"
   width="100%"
   alt="Habiba Noor"
 />
@@ -46,7 +46,7 @@
 
 <img
   src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"
-  width="500"
+  width="450"
   alt="Girl Coding"
 />
 
@@ -63,21 +63,17 @@
 
 ## 🌸 About Me
 
-💻 I love creating **modern, responsive and user-friendly websites**
-
-🌱 Currently learning **React.js, Node.js, ASP.NET, Python & PHP**
-
-🎨 Interested in **Frontend Development, UI Design and Creative Web Experiences**
-
-⚡ I enjoy turning **ideas into real digital solutions**
-
-📚 Always learning new technologies and improving my skills
-
-📫 **Email:** `habibakhan67227@gmail.com`
+- 🌱 I’m currently learning **React.js, Node.js, ASP.NET, Python, PHP**
+- 💬 Ask me about **Web Development, Frontend & Backend, JavaScript, CSS, HTML**
+- 🎨 Interested in **UI Design & Creative Web Experiences**
+- 💻 I enjoy building **modern and responsive websites**
+- 🚀 I love turning **ideas into real digital solutions**
+- 📫 Reach me at **habibakhan67227@gmail.com**
+- ⚡ Fun fact: **I think I am funny 😄**
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Languages & Tools
 
 <div align="center">
 
@@ -87,7 +83,7 @@
 
 <br><br>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,php,dotnet" />
 
@@ -99,9 +95,41 @@
 
 <br><br>
 
-### 🛠️ Tools
+### 🛠️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habiba-noor123&theme=tokyonight"
+  width="95%"
+  alt="Habiba Noor GitHub Overview"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habiba-noor123&theme=tokyonight"
+  width="45%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habiba-noor123&theme=tokyonight"
+  width="45%"
+  alt="Top Languages"
+/>
 
 </div>
 
@@ -113,9 +141,9 @@
 
 | 💻 Development | 🎨 Designing | 🚀 Learning |
 |---|---|---|
-| Responsive Websites | Modern UI Designs | New Technologies |
+| Responsive Websites | Modern UI Design | New Technologies |
 | Frontend Development | Creative Interfaces | Better Coding |
-| Web Applications | User Experiences | Problem Solving |
+| Web Applications | User Experience | Problem Solving |
 
 </div>
 
@@ -141,41 +169,13 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habiba-noor123&theme=tokyonight"
-  width="90%"
-  alt="GitHub Profile Details"
-/>
-
-<br><br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habiba-noor123&theme=tokyonight"
-  width="45%"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habiba-noor123&theme=tokyonight"
-  width="45%"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
 ## 💡 Developer Mindset
 
 <div align="center">
 
 ### `Code → Learn → Create → Improve → Repeat 💜`
 
-**“Turning ideas into beautiful digital experiences.”**
+**Turning Ideas Into Beautiful Digital Experiences ✨**
 
 </div>
 
@@ -198,7 +198,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:F78FB3,100:8E44AD&height=130&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:F78FB3,100:8E44AD&height=140&section=footer"
   width="100%"
 />
 
