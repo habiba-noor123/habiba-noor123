@@ -4,7 +4,11 @@
 
 <!-- 🌈 Banner Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/banner.gif" alt="Banner" width="100%" style="border-radius:15px;"/>
+  <img 
+    src="https://raw.githubusercontent.com/habiba-noor123/habiba-noor123/main/images/github-stats-girl.png"
+    alt="Habiba Noor Developer Banner"
+    width="100%"
+  />
 </div>
 
 <!-- 🌈 UI Design Banner -->
@@ -12,6 +16,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habiba%20Noor%20🌸&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
 
+<!-- 👩‍💻 Girl Coding Image -->
 <div align="center">
   <img 
     src="https://raw.githubusercontent.com/habiba-noor123/habiba-noor123/main/images/girl-coding.png"
