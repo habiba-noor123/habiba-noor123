@@ -13,9 +13,11 @@
 </div>
 
 <div align="center">
-  
-  <img src="girl-coding.png" width="400" alt="Girl Coding" />
-</div>
+  <img 
+    src="https://raw.githubusercontent.com/habiba-noor123/habiba-noor123/main/images/girl-coding.png"
+    width="500"
+    alt="Girl Coding"
+  />
 </div>
 
 <br>
