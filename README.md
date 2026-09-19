@@ -1,122 +1,201 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&color=F78FB3&center=true&vCenter=true&width=600&lines=Welcome+to+Habiba+Noor's+Profile!;Frontend+Developer+💻;Creative+Designer+🎨;Always+Learning+🌱" />
+<!-- ===================== HEADER ===================== -->
 
-<!-- 🌸 Habiba Noor – GitHub Profile ReadMe 🌸 -->
-
-<!-- 🌈 Banner Section -->
 <div align="center">
-  <img src="images/github-stats-girl.png"
-       alt="Habiba Noor GitHub Banner"
-       width="100%"
-       style="border-radius:15px;"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=3500&pause=800&color=F78FB3&center=true&vCenter=true&width=750&lines=Welcome+to+Habiba+Noor's+Profile+🌸;Frontend+Developer+💻;Creative+Designer+🎨;Building+Ideas+into+Reality+✨;Always+Learning+and+Growing+🌱" />
+
 </div>
 
-<!-- 🌈 UI Design Banner -->
+<!-- ===================== MAIN BANNER ===================== -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habiba%20Noor%20🌸&fontSize=40&fontColor=fff&animation=fadeIn" />
+  <img
+    src="images/github-stats-girl.png"
+    alt="Habiba Noor Developer Banner"
+    width="100%"
+  />
 </div>
 
-<!-- 👩‍💻 Girl Coding Image -->
+<!-- ===================== NAME BANNER ===================== -->
+
 <div align="center">
-  <img src="images/girl-coding.png"
-       width="500"
-       alt="Girl Coding"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:F78FB3,100:6C5CE7&height=210&section=header&text=Habiba%20Noor%20🌸&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Creative%20Designer&descAlignY=60&descSize=18"
+    width="100%"
+  />
 </div>
+
+<!-- ===================== INTRO ===================== -->
+
+<div align="center">
+
+# Hi 👋, I'm Habiba Noor 🌸
+
+### 💻 Frontend Developer | 🎨 Creative Designer | 🚀 Tech Enthusiast
+
+🇵🇰 From Pakistan
 
 <br>
 
-<div align="center" style="background: linear-gradient(to right, #fbc2eb, #a6c1ee); padding: 30px; border-radius: 20px;">
-  
-  <h1>Hi 👋, I'm <span style="color:#8e44ad;">Habiba Noor!</span> 🌸</h1>
-  <h3>A Passionate Frontend Developer from Pakistan 🇵🇰</h3>
+<img
+  src="images/girl-coding.png"
+  width="600"
+  alt="Habiba Noor Coding"
+/>
 
-  <!-- 💻 Coding GIF -->
-  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/code.gif"
-       alt="Coding"
-       width="400"
-       style="border-radius:15px; margin-top:10px;" />
+<br><br>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=habiba-noor123&label=Profile%20views&color=ff69b4&style=flat"
-         alt="Profile Views" />
-  </p>
-
-  <!-- 🏆 GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=habiba-noor123&theme=dracula&margin-w=15"
-         alt="GitHub Trophies" />
-  </a>
+<img
+  src="https://komarev.com/ghpvc/?username=habiba-noor123&label=Profile+Views&color=ff69b4&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
 
 ---
 
-### 🌼 About Me  
+## 🌸 About Me
 
-- 🌱 I’m currently learning **React.js, Node.js, ASP.NET, Python, PHP**  
-- 💬 Ask me about **Web Development, Frontend & Backend, JavaScript, CSS, HTML**  
-- 📫 Reach me at **habibakhan67227@gmail.com**  
-- ⚡ Fun fact: **I think I am funny 😄**
+💻 I love creating **modern, responsive and user-friendly websites**
 
----
+🌱 Currently learning **React.js, Node.js, ASP.NET, Python & PHP**
 
-### 🌸 Connect With Me
+🎨 Interested in **Frontend Development, UI Design and Creative Web Experiences**
 
-<p align="center">
-  <a href="https://www.facebook.com/habiba.noor.92167789" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+⚡ I enjoy turning **ideas into real digital solutions**
 
-  <a href="https://www.instagram.com/habibakhan67227/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+📚 Always learning new technologies and improving my skills
+
+📫 **Email:** `habibakhan67227@gmail.com`
 
 ---
 
-### 💻 Languages and Tools
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,mysql,flutter,dotnet" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🚀 My Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habiba-noor123&show_icons=true&theme=tokyonight"
-       alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-noor123&theme=tokyonight"
-       alt="GitHub Streak" />
+### 🎨 Frontend
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-noor123&layout=compact&theme=tokyonight"
-       alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+
+<br><br>
+
+### ⚙️ Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,dotnet" />
+
+<br><br>
+
+### 🗄️ Database & Mobile
+
+<img src="https://skillicons.dev/icons?i=mysql,flutter" />
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </div>
 
 ---
 
-### ☕ Support Me
+## ✨ What I Love To Do
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/habibanoor" target="_blank">
-    <img src="https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange?style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
+
+| 💻 Development | 🎨 Designing | 🚀 Learning |
+|---|---|---|
+| Responsive Websites | Modern UI Designs | New Technologies |
+| Frontend Development | Creative Interfaces | Better Coding |
+| Web Applications | User Experiences | Problem Solving |
+
+</div>
+
+---
+
+## 🌸 Connect With Me
+
+<div align="center">
+
+<a href="https://www.facebook.com/habiba.noor.92167789">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/habibakhan67227/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:habibakhan67227@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habiba-noor123&theme=tokyonight"
+  width="90%"
+  alt="GitHub Profile Details"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habiba-noor123&theme=tokyonight"
+  width="45%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habiba-noor123&theme=tokyonight"
+  width="45%"
+  alt="Languages"
+/>
+
+</div>
+
+---
+
+## 💡 Developer Mindset
+
+<div align="center">
+
+### `Code → Learn → Create → Improve → Repeat 💜`
+
+**“Turning ideas into beautiful digital experiences.”**
+
+</div>
+
+---
+
+## ☕ Support Me
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/habibanoor">
+  <img
+    src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_Me-FFDD00?style=for-the-badge"
+  />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/wave.gif"
-       width="200"
-       alt="Thanks GIF">
 
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:F78FB3,100:8E44AD&height=130&section=footer"
+/>
 
-  <p>
-    🎬 GIFs by 
-    <a href="https://github.com/rudrabarad/Gifs" target="_blank">
-      rudrabarad
-    </a>
-  </p>
+### 🌸 Thanks for visiting my profile! 🌸
+
+**Keep Learning • Keep Creating • Keep Growing 🚀**
+
 </div>
