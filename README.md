@@ -13,7 +13,9 @@
 </div>
 
 <div align="center">
-<img src="./images/girl-coding.png" width="400" alt="Girl Coding" />
+  
+  <img src="girl-coding.png" width="400" alt="Girl Coding" />
+</div>
 </div>
 
 <br>
