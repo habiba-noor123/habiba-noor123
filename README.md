@@ -11,7 +11,7 @@
 <div align="center">
 
 <img
-  src="images/habiba-github-profile.png"
+  src="https://raw.githubusercontent.com/habiba-noor123/habiba-noor123/main/images/habiba-github-profile.png"
   width="100%"
   alt="Habiba Noor GitHub Profile"
 />
@@ -83,7 +83,7 @@
 
 <br><br>
 
-### ⚙️ Backend
+### ⚙️ Backend & Frameworks
 
 <img src="https://skillicons.dev/icons?i=nodejs,php,dotnet" />
 
@@ -98,6 +98,20 @@
 ### 🛠️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## ✨ What I Love To Do
+
+<div align="center">
+
+| 💻 Development | 🎨 Designing | 🚀 Learning |
+|---|---|---|
+| Responsive Websites | Modern UI Design | New Technologies |
+| Frontend Development | Creative Interfaces | Better Coding |
+| Web Applications | User Experience | Problem Solving |
 
 </div>
 
@@ -130,20 +144,6 @@
   width="45%"
   alt="Top Languages"
 />
-
-</div>
-
----
-
-## ✨ What I Love To Do
-
-<div align="center">
-
-| 💻 Development | 🎨 Designing | 🚀 Learning |
-|---|---|---|
-| Responsive Websites | Modern UI Design | New Technologies |
-| Frontend Development | Creative Interfaces | Better Coding |
-| Web Applications | User Experience | Problem Solving |
 
 </div>
 
@@ -188,6 +188,7 @@
 <a href="https://www.buymeacoffee.com/habibanoor">
   <img
     src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_Me-FFDD00?style=for-the-badge"
+    alt="Buy Me A Coffee"
   />
 </a>
 
@@ -200,6 +201,7 @@
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:F78FB3,100:8E44AD&height=140&section=footer"
   width="100%"
+  alt="Footer"
 />
 
 ### 🌸 Thanks for visiting my profile! 🌸
