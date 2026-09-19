@@ -6,41 +6,48 @@
 
 </div>
 
-<!-- ===================== MAIN BANNER ===================== -->
+<!-- ===================== GIRL DEVELOPER BANNER ===================== -->
 
 <div align="center">
-  <img
-    src="images/github-stats-girl.png"
-    alt="Habiba Noor Developer Banner"
-    width="100%"
-  />
+
+<img
+  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e"
+  width="700"
+  alt="Habiba Noor Developer Banner"
+/>
+
 </div>
+
+<br>
 
 <!-- ===================== NAME BANNER ===================== -->
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:F78FB3,100:6C5CE7&height=210&section=header&text=Habiba%20Noor%20🌸&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Creative%20Designer&descAlignY=60&descSize=18"
-    width="100%"
-  />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:F78FB3,100:6C5CE7&height=210&section=header&text=Habiba%20Noor%20🌸&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Creative%20Designer&descAlignY=60&descSize=18"
+  width="100%"
+  alt="Habiba Noor"
+/>
+
 </div>
 
 <!-- ===================== INTRO ===================== -->
 
 <div align="center">
 
-# Hi 👋, I'm Habiba Noor 🌸
+<h1>Hi 👋, I'm Habiba Noor 🌸</h1>
 
-### 💻 Frontend Developer | 🎨 Creative Designer | 🚀 Tech Enthusiast
+<h3>💻 Frontend Developer | 🎨 Creative Designer | 🚀 Tech Enthusiast</h3>
 
-🇵🇰 From Pakistan
+<p>🇵🇰 From Pakistan</p>
 
 <br>
 
 <img
-  src="images/girl-coding.png"
-  width="600"
-  alt="Habiba Noor Coding"
+  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"
+  width="500"
+  alt="Girl Coding"
 />
 
 <br><br>
@@ -155,7 +162,7 @@
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habiba-noor123&theme=tokyonight"
   width="45%"
-  alt="Languages"
+  alt="Top Languages"
 />
 
 </div>
@@ -192,6 +199,7 @@
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:F78FB3,100:8E44AD&height=130&section=footer"
+  width="100%"
 />
 
 ### 🌸 Thanks for visiting my profile! 🌸
